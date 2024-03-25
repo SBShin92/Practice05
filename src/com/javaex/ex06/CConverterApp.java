@@ -4,9 +4,6 @@ package com.javaex.ex06;
 public class CConverterApp {
 
     public static void main(String[] args) {
-
-        double dollar;
-        double won;
         
         CConverter.setRate(1118.70);
         
